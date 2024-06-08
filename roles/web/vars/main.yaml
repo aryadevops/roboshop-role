@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.aryadevops.online
+USER_HOST: user.aryadevops.online
+SHIPPING_HOST: shipping.aryadevops.online
+CART_HOST: cart.aryadevops.online
+PAYMENT_HOST: payment.aryadevops.online
